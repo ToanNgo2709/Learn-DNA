@@ -12,6 +12,9 @@ public class LinkedListImpl {
         list.addToFront(johnDoe);
         list.addToFront(maxHere);
 
+        System.out.println(list.getSize());
+        list.removeFromFront();
+        System.out.println(list.getSize());
         list.printList();
     }
 }

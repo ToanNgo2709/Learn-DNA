@@ -5,3 +5,15 @@ b
 2src/main/java/org/example/array/SelectionSort.java,2/7/27c65df47408a63db928f9f9d636999ea9412e86
 _
 /src/main/java/org/example/array/BubbleSort.java,3/a/3a3778484ce0e53db8cdffa2059343c016aa16e5
+^
+.src/main/java/org/example/array/ShellSort.java,9/e/9ec95dbf7c3bd77584a20e1bf08b73cd4a2d8f75
+b
+2src/main/java/org/example/array/InsertionSort.java,b/3/b3c11af5afc5f839135b685fa56dd374eec2e509
+S
+#src/main/java/org/example/Main.java,0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b
+a
+1src/main/java/org/example/list_info/Employee.java,f/4/f402e953c79d1c64ae684982709068550cbf15a5
+f
+6src/main/java/org/example/list_info/ArrayListImpl.java,f/b/fbf6079983a4ce20ca455caa8d51a4aa073bc4c7
+c
+3src/main/java/org/example/list_info/VectorInfo.java,b/6/b643d7c795f3eb822bfd07ab4fdce83e20131a72
